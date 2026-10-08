@@ -2,9 +2,8 @@
 
 API REST desenvolvida para gerenciar uma autoescola, permitindo o cadastro de alunos, instrutores e usuários, autenticação com JWT, agendamento de instruções e cancelamento conforme regras de negócio.
 
-Projeto desenvolvido para a disciplina **SOA e WebServices**, incluindo os checkpoints anteriores e os requisitos da atividade com entrega em **12/10/2026**.
+Projeto desenvolvido para a disciplina **SOA e WebServices**, incluindo os checkpoints anteriores e os requisitos da atividade.
 
-Para validar a entrega no seu computador, siga [o roteiro de testes](docs/TESTE_ENTREGA.md).
 
 ## Requisitos desta atividade
 
